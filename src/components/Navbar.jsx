@@ -5,9 +5,9 @@ import { FaTwitterSquare } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
 function Navbar() {
   return (
-    <nav className="mb-20 flex items-center justify-between py-2">
+    <nav className="mb-20 flex items-center justify-between py-2 border-b border-neutral-800">
       <div className="flex flex-shrink-0 items-start">
-        <h1 className='text-2xl '>Sheldon Debra</h1>
+        <h1 className='text-2xl font-light '>SHELDON DEBRA</h1>
       </div>
       <div className="m-8 items-center justify-center gap-4 text-2xl flex">
         <FaLinkedin />
